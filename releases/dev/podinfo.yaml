@@ -11,7 +11,7 @@ spec:
   chartGitPath: podinfo
   releaseName: podinfo-dev
   values:
-    image: whitehat/podinfo:dev-geojbbn1
+    image: whitehat/podinfo:dev-umfgdxyy
     replicaCount: 1
     hpa:
       enabled: false
